@@ -1,0 +1,21 @@
+{
+  "name": "unlockmylead-platform",
+  "version": "1.0.0",
+  "description": "UnlockMyLead - AI-powered lead generation and calling platform",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "start": "echo 'Starting application'"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0",
+    "twilio": "^4.19.0",
+    "axios": "^1.6.0",
+    "csv-parser": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "UnlockMyLead Team",
+  "license": "MIT"
+}
